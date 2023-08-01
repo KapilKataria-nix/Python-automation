@@ -14,3 +14,6 @@ if response.status_code == 200:
     print(f'Temperature: {temperature}')
 else:
     print('An Error Occured')
+
+
+    
